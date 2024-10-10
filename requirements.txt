@@ -4,3 +4,4 @@ numpy==1.24.3
 altair==4.2.2
 plotly==5.14.1
 seaborn==0.12.2
+distutils
